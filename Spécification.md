@@ -4,7 +4,7 @@
 ### 1.1 Objectif du projet
 
 
-Destina est une plateforme de réservation de voyages en ligne permettant aux utilisateurs de découvrir, consulter et réserver des voyages. Le site offre une interface moderne et responsive, adaptée à tous les appareils.
+Destinia est une plateforme de réservation de voyages en ligne permettant aux utilisateurs de découvrir, consulter et réserver des voyages. Le site offre une interface moderne et responsive, adaptée à tous les appareils.
 
 
 ### 1.2 Public cible
@@ -670,5 +670,5 @@ interface Review {
 ## 12. Conclusion
 
 
-Destina est une plateforme complète de réservation de voyages offrant une expérience utilisateur fluide et intuitive. Le projet utilise des technologies modernes et suit les meilleures pratiques de développement web. Cette spécification détaillée sert de guide pour le développement, la maintenance et l'évolution future de la plateforme.
+Destinia est une plateforme complète de réservation de voyages offrant une expérience utilisateur fluide et intuitive. Le projet utilise des technologies modernes et suit les meilleures pratiques de développement web. Cette spécification détaillée sert de guide pour le développement, la maintenance et l'évolution future de la plateforme.
 
